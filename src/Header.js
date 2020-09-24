@@ -8,7 +8,7 @@ function Header() {
 <nav className="header">
 
 
-<Link>
+<Link to="/">
 <img className="header__logo" src="http://pngimg.com/uploads/amazon/amazon_PNG11.png" alt="" />
 
 </Link>
