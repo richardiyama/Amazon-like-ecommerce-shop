@@ -26,8 +26,8 @@ function Home() {
             rating={4}
           />
     
-
-       
+</div>
+<div className="header__row">
           <Product
             id="8934233"
             image="https://images-na.ssl-images-amazon.com/images/I/31dYBKysp6L._AC_SX184_.jpg"
@@ -36,6 +36,7 @@ function Home() {
             price={59.99}
             rating={4}
           />
+           
           <Product
             id="753068"
             image="https://images-na.ssl-images-amazon.com/images/I/31l2mq9kTHL._AC_SX184_.jpg"
@@ -44,6 +45,8 @@ function Home() {
             price={179.99}
             rating={0}
           />
+
+         
           <Product
             id="6574836"
             image="https://m.media-amazon.com/images/I/61moEqqnwzL._AC_UY218_.jpg"
@@ -52,9 +55,9 @@ function Home() {
             price={269.99}
             rating={5}
           />
-    
+    </div>
 
-        
+        <div className="header__row">
           <Product
             id="123424"
             image="https://m.media-amazon.com/images/I/81v90JtbImL._AC_UY218_.jpg"
