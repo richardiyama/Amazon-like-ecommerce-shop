@@ -8,7 +8,7 @@ function Home() {
         <img className="home__image" src="https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch2016/Hero/Covid19/Generic/GWBleedingHero_ENG_COVIDUPDATE__XSite_1500x600_PV_en-GB._CB428684220_.jpg"
         alt="" />
 
-<div className="home__row">
+       <div className="home__row">
           <Product
             id="8824324"
             image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
@@ -26,8 +26,8 @@ function Home() {
             rating={4}
           />
     
-</div>
-<div className="header__row">
+       </div>
+       <div className="home__row">
           <Product
             id="8934233"
             image="https://images-na.ssl-images-amazon.com/images/I/31dYBKysp6L._AC_SX184_.jpg"
@@ -55,8 +55,7 @@ function Home() {
             price={269.99}
             rating={5}
           />
-    </div>
-
+        </div>
         <div className="header__row">
           <Product
             id="123424"
@@ -67,8 +66,8 @@ function Home() {
             rating={5}
           />
         
-</div>
-        </div>
+         </div>
+  </div>
     )
 }
 

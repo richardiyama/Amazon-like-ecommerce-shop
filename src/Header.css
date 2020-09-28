@@ -5,25 +5,30 @@
     position: sticky;
     top: 0;
     z-index: 100;
+    min-width: 600px;
+    height: 60px;
 }
 
 .header__logo {
     width: 100px;
     object-fit: contain;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-top: 18px;
+    margin: 18px 10px auto 30px;
 
 }
 
 .header__optionBasket {
     display: flex;
-    align-items: center;
+  margin-left: 6px;
+  margin-right: 3px;
+  height: 30px;
+  align-items: center;
+  color: white;
 }
 
 .header_basketCount {
-    margin-left: 10px;
-    margin-right: 10px;
+    margin: auto 10px auto 6px;
+  color: #f08804;
+  font-size: 15px;
 }
 
 .header__nav {
@@ -44,8 +49,11 @@
 }
 
 .header__search {
-    display:flex;
-    flex:1;
+    margin: 0 20px;
+  display: flex;
+  flex: 1;
+  align-items: center;
+  border-radius: 24px;
 }
 
 .header__searchInput {
