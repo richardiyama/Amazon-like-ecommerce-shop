@@ -1,8 +1,26 @@
+## Home Page
+
+<img src="https://github.com/richardiyama/Amazon-like-ecommerce-shop/blob/master/public/home1.JPG" height="400" />
+<img src="https://github.com/richardiyama/Amazon-like-ecommerce-shop/blob/master/public/home2.JPG" height="400" />
+
+## Sign In Page
+
+<img src="https://github.com/richardiyama/Amazon-like-ecommerce-shop/blob/master/public/SignIn.JPG" height="400" />
+
+## Shopping Basket
+
+<img src="https://github.com/richardiyama/Amazon-like-ecommerce-shop/blob/master/public/cart.JPG" height="400" />
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm install`
+To install packages
 
 ### `yarn start`
 
